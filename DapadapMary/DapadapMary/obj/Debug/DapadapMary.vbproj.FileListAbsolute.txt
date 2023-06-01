@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\DapadapMary\DapadapMary\bin\Debug\DapadapMary.exe.config
+C:\Users\PC\source\repos\DapadapMary\DapadapMary\bin\Debug\DapadapMary.exe
+C:\Users\PC\source\repos\DapadapMary\DapadapMary\bin\Debug\DapadapMary.pdb
+C:\Users\PC\source\repos\DapadapMary\DapadapMary\bin\Debug\DapadapMary.xml
+C:\Users\PC\source\repos\DapadapMary\DapadapMary\obj\Debug\DapadapMary.vbproj.AssemblyReference.cache
+C:\Users\PC\source\repos\DapadapMary\DapadapMary\obj\Debug\DapadapMary.Form1.resources
+C:\Users\PC\source\repos\DapadapMary\DapadapMary\obj\Debug\DapadapMary.Form2.resources
+C:\Users\PC\source\repos\DapadapMary\DapadapMary\obj\Debug\DapadapMary.Resources.resources
+C:\Users\PC\source\repos\DapadapMary\DapadapMary\obj\Debug\DapadapMary.vbproj.GenerateResource.cache
+C:\Users\PC\source\repos\DapadapMary\DapadapMary\obj\Debug\DapadapMary.vbproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\DapadapMary\DapadapMary\obj\Debug\DapadapMary.exe
+C:\Users\PC\source\repos\DapadapMary\DapadapMary\obj\Debug\DapadapMary.xml
+C:\Users\PC\source\repos\DapadapMary\DapadapMary\obj\Debug\DapadapMary.pdb
